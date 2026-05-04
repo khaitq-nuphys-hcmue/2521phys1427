@@ -8,7 +8,6 @@ program diff1
 	
 	dx = 1e-8
 	diff = (f(x0+dx) -f(x0)) / dx
-	
 	write (*,*) "diff = ", diff
 
 end program diff1
