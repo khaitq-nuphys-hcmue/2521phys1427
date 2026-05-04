@@ -1,5 +1,4 @@
 ! Giai pt phi tuyen bang pp chia doi
-
 program bisection
 	implicit none
 	real :: a, b, c
