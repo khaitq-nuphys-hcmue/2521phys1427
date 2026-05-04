@@ -1,5 +1,4 @@
 program integral
-! khai bao bien so
 	implicit none
 	real :: f
 	real :: a, b, h
