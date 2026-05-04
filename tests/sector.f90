@@ -1,5 +1,4 @@
 ! Giai pt phi tuyen bang pp day cung
-
 program sector
 	implicit none
 	real :: a, b, c
